@@ -143,5 +143,5 @@ class App {
 }
 
 new App({
-  VOICE_RSS_API_KEY: String(import.meta.env.VITE_VOICE_RSS_API_KEY), //4444fd21245a4e5898fbc97cc815cb0b
+  VOICE_RSS_API_KEY: String(import.meta.env.VITE_VOICE_RSS_API_KEY),
 })
